@@ -1,0 +1,20 @@
+{
+    "name": "fireworks",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-color": "github:jwunderl/pxt-color#v0.0.29"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "languageRestriction": "no-blocks"
+}
